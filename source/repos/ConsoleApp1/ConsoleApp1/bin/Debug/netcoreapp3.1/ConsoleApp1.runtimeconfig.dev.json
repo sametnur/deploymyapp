@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pattasana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pattasana\\.nuget\\packages"
+    ]
+  }
+}
